@@ -1,0 +1,14 @@
+{
+  "name": "strato-token-list",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.34",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "viem": "^2.21.0"
+  }
+}

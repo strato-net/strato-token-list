@@ -1,0 +1,98 @@
+{
+  "name": "STRATO Default Token List",
+  "timestamp": "2026-10-12T15:36:55Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "strato",
+    "mercata",
+    "blockapps",
+    "mainnet"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/STRATO.png",
+  "tokens": [
+    {
+      "name": "USDST",
+      "address": "0x937efa7e3A77E20BBdBD7C0d32b6514f368C1010",
+      "symbol": "USDST",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/USDST.png"
+    },
+    {
+      "name": "STRATO",
+      "address": "0x2Ca3E170E6714282da77815F7864B17f612F5f83",
+      "symbol": "STRATO",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/STRATO.png"
+    },
+    {
+      "name": "GOLDST",
+      "address": "0xCDc93d30182125e05eEC985b631c7c61B3F63FF0",
+      "symbol": "GOLDST",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/GOLDST.png"
+    },
+    {
+      "name": "SILVST",
+      "address": "0x2c59EF92D08EfdE71fe1A1CB5b45f4F6d48fCc94",
+      "symbol": "SILVST",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/SILVST.png"
+    },
+    {
+      "name": "STRATO USDC",
+      "address": "0x6aeaCAA19c68E53035Bf495d15e0A328fc600BA8",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/USDC.png"
+    },
+    {
+      "name": "STRATO USDT",
+      "address": "0x5ED0BDFb378aC0D06249D70759536d7a41906216",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/USDT.png"
+    },
+    {
+      "name": "STRATO ETH",
+      "address": "0x93fb7295859B2d70199e0A4883b7C320Cf874e6c",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/ETH.png"
+    },
+    {
+      "name": "STRATO WBTC",
+      "address": "0x7a99b5BA11Ac280cDD5CAF52c12FE89Fb1b8D2f9",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/WBTC.png"
+    },
+    {
+      "name": "STRATO Robinhood NVDA",
+      "address": "0xb8fA2dB41236b1421EB8AEa8A52826ba32096fBf",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/NVDA.png"
+    },
+    {
+      "name": "STRATO Robinhood SPY",
+      "address": "0x19A7EbEe83Ed53CB5917AaD3f2b1c2Cd37Da771D",
+      "symbol": "SPY",
+      "decimals": 18,
+      "chainId": 123354377739506,
+      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/SPY.png"
+    }
+  ]
+}
