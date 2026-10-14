@@ -1,8 +1,8 @@
 {
   "name": "STRATO Default Token List",
-  "timestamp": "2026-10-12T15:36:55Z",
+  "timestamp": "2026-10-14T00:00:00Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -77,22 +77,6 @@
       "decimals": 18,
       "chainId": 123354377739506,
       "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/WBTC.png"
-    },
-    {
-      "name": "STRATO Robinhood NVDA",
-      "address": "0xb8fA2dB41236b1421EB8AEa8A52826ba32096fBf",
-      "symbol": "NVDA",
-      "decimals": 18,
-      "chainId": 123354377739506,
-      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/NVDA.png"
-    },
-    {
-      "name": "STRATO Robinhood SPY",
-      "address": "0x19A7EbEe83Ed53CB5917AaD3f2b1c2Cd37Da771D",
-      "symbol": "SPY",
-      "decimals": 18,
-      "chainId": 123354377739506,
-      "logoURI": "https://raw.githubusercontent.com/strato-net/strato-token-list/main/logos/SPY.png"
     }
   ]
 }
